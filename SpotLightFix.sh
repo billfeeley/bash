@@ -2,7 +2,6 @@
 
 # Script: Disable Spotlight Indexing
 # Description: This script disables and re-enables Spotlight indexing on the specified volume.
-# Author: Your Name
 # Version: 1.0
 
 # Disable Spotlight indexing
